@@ -44,6 +44,8 @@ formularioPeliculas.addEventListener("submit", (event) => {
   }
 });
 
+//hola
+
 // Función para mostrar las películas en la lista
 function mostrarPeliculas() {
   // Limpiar la lista
